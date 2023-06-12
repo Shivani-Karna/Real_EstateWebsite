@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Real_EstateWebsite/static/css/main.0a4823b6.css",
+    "main.js": "/Real_EstateWebsite/static/js/main.ddd9b286.js",
+    "static/js/787.538cbed6.chunk.js": "/Real_EstateWebsite/static/js/787.538cbed6.chunk.js",
+    "index.html": "/Real_EstateWebsite/index.html",
+    "main.0a4823b6.css.map": "/Real_EstateWebsite/static/css/main.0a4823b6.css.map",
+    "main.ddd9b286.js.map": "/Real_EstateWebsite/static/js/main.ddd9b286.js.map",
+    "787.538cbed6.chunk.js.map": "/Real_EstateWebsite/static/js/787.538cbed6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4823b6.css",
+    "static/js/main.ddd9b286.js"
+  ]
+}
